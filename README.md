@@ -10,7 +10,7 @@ O cliente fictício NunesSports solicitou o desenvolvimento de um sistema para g
 - MySQL
 
 ## Funcionalidades
-Exibição de Produtos: Visualização dos produtos disponíveis no catálogo.
-Criação de Produtos: Adição de novos produtos ao catálogo.
-Edição de Produtos: Atualização das informações de produtos existentes.
-Deleção de Produtos: Remoção de produtos do catálogo.
+- Exibição de Produtos: Visualização dos produtos disponíveis no catálogo.
+- Criação de Produtos: Adição de novos produtos ao catálogo.
+- Edição de Produtos: Atualização das informações de produtos existentes.
+- Deleção de Produtos: Remoção de produtos do catálogo.
